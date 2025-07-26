@@ -1,5 +1,7 @@
 # 🎬 Netflix Movies and TV Shows Data Analysis using SQL
 
+![Netflix Logo](https://github.com/TejasviShrivastava97/netflix-sql-data-analysis/blob/main/Netflix%20Logo.png)
+
 ## 📌 Overview
 This project presents a detailed SQL-based analysis of Netflix’s Movies and TV Shows dataset. Using a structured approach, the project uncovers key insights into content types, genres, ratings, countries, and more. It is aimed at developing and showcasing SQL skills essential for business and data analyst roles.
 
